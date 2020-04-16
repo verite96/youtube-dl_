@@ -1,5 +1,5 @@
 {
-  "name": "youtube-dl",
+  "name": "youtube-dl_",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,12 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/verite96/youtube-dl.git"
+    "url": "git+https://github.com/verite96/youtube-dl_.git"
   },
   "author": "Verite Somwa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/verite96/youtube-dl/issues"
+    "url": "https://github.com/verite96/youtube-dl_/issues"
   },
-  "homepage": "https://github.com/verite96/youtube-dl#readme"
+  "homepage": "https://github.com/verite96/youtube-dl_#readme",
+  "dependencies": {
+    "youtube-dl": "^3.0.2"
+  }
 }
